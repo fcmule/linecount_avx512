@@ -2,7 +2,7 @@ A simple command line utility to count the number of lines in a file.
 Requires a 64-bit processor with AVX-512 extensions support.
 
 The utility has been benchmarked and compared with the equivalent "wc -l" command using the "enwik9" data,
-obtaining the following results:
+obtaining the following results (lower is better):
 
 Command                 | Time (10 runs avg)
 ----------------------------------------------
