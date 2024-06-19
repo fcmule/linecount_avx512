@@ -4,6 +4,7 @@ Requires a 64-bit processor with AVX-512 extensions support.
 The utility has been benchmarked and compared with the equivalent "wc -l" command using the "enwik9" data,
 obtaining the following results (lower is better):
 
+
 Command                 | Time (10 runs avg)
 ----------------------------------------------
 wc -l enwik9            | 1.531 s +/- 0.037 s
